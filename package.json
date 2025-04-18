@@ -1,0 +1,26 @@
+{
+  "name": "nutrientkh",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.8.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "helmet": "^8.1.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.9"
+  },
+  "keywords": [],
+  "description": ""
+}

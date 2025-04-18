@@ -1,0 +1,56 @@
+{
+  "beef Aberdeen Angus": {
+    "displayName": "Aberdeen Angus (imported)",
+    "raw": { "carbs": 0, "protein": 23, "fat": 16, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 24, "fat": 17, "fiber": 0 }
+  },
+  "beef (Kor Khmer)": {
+    "displayName": "Local Khmer Cattle (Kor Khmer/Gor Srok)",
+    "raw": { "carbs": 0, "protein": 20, "fat": 15, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 22, "fat": 16, "fiber": 0 }
+  },
+  "beef Hereford cattle": {
+    "displayName": "Hereford cattle (imported)",
+    "raw": { "carbs": 0, "protein": 22, "fat": 16, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 23, "fat": 17, "fiber": 0 }
+  },
+  "beef Hariana Crossbreeds": {
+    "Display Name": "Hariana Crossbreeds (Local cow)",
+    "raw": { "carbs": 0, "protein": 21, "fat": 17, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 23, "fat": 18, "fiber": 0 }
+  },
+  "beef Murray Grey cattle": {
+    "displayName": "Murray Grey cattle (imported)",
+    "raw": { "carbs": 0, "protein": 21, "fat": 16, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 23, "fat": 17, "fiber": 0 }
+  },
+  "beef Brahman Cattle (imported)": {
+    "displayName": "Brahman Cattle (imported)",
+    "raw": { "carbs": 0, "protein": 21, "fat": 17, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 23, "fat": 18, "fiber": 0 }
+  },
+  "beef wagyu": {
+    "displayName": "Wagyu (imported)",
+    "raw": { "carbs": 0, "protein": 21, "fat": 26, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 22, "fat": 28, "fiber": 0 }
+  },
+  "carrot": {
+    "displayName": "Carrot",
+    "raw": { "carbs": 9.6, "protein": 0.9, "fat": 0.2, "fiber": 2.8 }
+  },
+  "chicken Ayam Kampong (Moan Saray)": {
+    "displayName": "Ayam Kampong (Moan Saray)",
+    "raw": { "carbs": 0, "protein": 23.5, "fat": 4.6, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 28, "fat": 5.75, "fiber": 0 }
+  },
+  "chicken Cobb 500 / Ross 308 (Commercial Broiler)": {
+    "displayName": "Cobb 500 / Ross 308 (Commercial Broiler)",
+    "raw": { "carbs": 0, "protein": 19.5, "fat": 8.6, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 24, "fat": 9.75, "fiber": 0 }
+  },
+  "chicken Thai Fighting": {
+    "displayName": "Thai Fighting",
+    "raw": { "carbs": 0, "protein": 22.5, "fat": 5.6, "fiber": 0 },
+    "cooked": { "carbs": 0, "protein": 27, "fat": 6.75, "fiber": 0 }
+  }
+}

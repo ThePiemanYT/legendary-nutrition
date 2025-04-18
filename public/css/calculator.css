@@ -1,0 +1,92 @@
+body {
+  background-color: #f4f4f4;
+  padding: 0px;
+}
+
+p {
+  margin-bottom: 7.5px;
+  margin-right: 0;
+}
+
+.space {
+  margin-bottom: 25px;;
+}
+
+.calculator {
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 150px;
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: rgb(rgb(209, 204, 204), rgb(0, 222, 0), rgb(139, 139, 225));
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+select {
+  width: 100px;
+  padding: 10px;
+  margin: 2.5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-top: 5px;
+}
+
+.suggestion-box {
+  position: absolute;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-width: 160px;
+  max-height: 150px;
+  overflow-y: auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+}
+
+.suggestion {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+.suggestion:hover {
+  background: #e6f9eb;
+}
+
+.no-match {
+  padding: 10px;
+  color: gray;
+  text-align: center;
+}
